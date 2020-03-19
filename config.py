@@ -1,9 +1,9 @@
 class Config(object):
-pass
+    pass
 
 class ProdConfig(Config):
-pass
+    pass
 
 class DevConfig(Config):
-DEBUG = True
+    DEBUG = True
 
